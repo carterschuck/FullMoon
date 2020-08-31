@@ -1,5 +1,5 @@
 <html>
-  <h1>Would you like to be Carter's Girlfriend?</h1>
+  <h1>Should Gracey be Carter's Girfriend?</h1>
   <h>We surveyed 300 participants and here are the results!</h>
   <table>
     <tr>
@@ -9,4 +9,4 @@
        <td>Yes, but in grey</td>
        <td>153</td>
   </table>
-<p>Please feel free to text 859-321-5139 for your answer</p>
+<p>So, what do ya say? Please feel free to text 859-321-5139 for your answer❤️</p>
