@@ -9,3 +9,5 @@
        <td>Yes, but in grey</td>
        <td>153</td> </tr>
   </table>
+  <p>So, what do you say?</p>
+  <p>Text 859-321-5139 for your response <3</p>
