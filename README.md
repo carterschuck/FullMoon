@@ -7,5 +7,4 @@
       <td>147</td>
      <tr>
        <td>Yes, but in grey</td>
-       <td>153</td> 
-
+       <td>153</td> </table>
