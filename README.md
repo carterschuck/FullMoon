@@ -6,7 +6,7 @@
       <td>Yes</td>
       <td>147</td> </tr>
      <tr>
-       <td>Yes, but in grey</td>
+       <td>Yes, but in the second slot</td>
        <td>153</td> </tr>
   </table>
   <p>So, what do you say?</p>
